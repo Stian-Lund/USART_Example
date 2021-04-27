@@ -1,2 +1,2 @@
 # USART_Example
-Simple example for how to setup the USART interface for ATMEGA168
+A simple example for how to set up the USART interface for ATMEGA168
